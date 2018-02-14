@@ -7,7 +7,7 @@ body {
   opacity: 0.8; }
 
 #home-section {
-  background: url("../img/tellus_0002.jpg") no-repeat;
+  background: url("../img/home.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   min-height: 700px; }
